@@ -1,0 +1,31 @@
+@charset "utf-8";
+body {
+    line-height: 1.6;
+}
+h1 {
+    font-size: 30px;
+}
+h2 {
+    font-size: 25px;
+}
+p {
+    font-weight: bold;
+}
+.head1234 {
+    text-align: center;
+}
+#it-specialist {
+    color: blue;
+}
+#cyber-security {
+    color: cornflowerblue;
+}
+a:hover .frame {
+    border: 1px solid #ccc;
+}
+a:hover img {
+    opacity: 0.5;
+}
+a:active {
+    color: #4ca4e8;
+}
